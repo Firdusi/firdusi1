@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\FIRDUSI 14\FIRDUSI 14\bin\Debug\FIRDUSI 14.exe.config
+C:\Users\student\source\repos\FIRDUSI 14\FIRDUSI 14\bin\Debug\FIRDUSI 14.exe
+C:\Users\student\source\repos\FIRDUSI 14\FIRDUSI 14\bin\Debug\FIRDUSI 14.pdb
+C:\Users\student\source\repos\FIRDUSI 14\FIRDUSI 14\obj\Debug\FIRDUSI 14.csprojAssemblyReference.cache
+C:\Users\student\source\repos\FIRDUSI 14\FIRDUSI 14\obj\Debug\FIRDUSI_14.Form1.resources
+C:\Users\student\source\repos\FIRDUSI 14\FIRDUSI 14\obj\Debug\FIRDUSI_14.Properties.Resources.resources
+C:\Users\student\source\repos\FIRDUSI 14\FIRDUSI 14\obj\Debug\FIRDUSI 14.csproj.GenerateResource.cache
+C:\Users\student\source\repos\FIRDUSI 14\FIRDUSI 14\obj\Debug\FIRDUSI 14.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\FIRDUSI 14\FIRDUSI 14\obj\Debug\FIRDUSI 14.exe
+C:\Users\student\source\repos\FIRDUSI 14\FIRDUSI 14\obj\Debug\FIRDUSI 14.pdb
